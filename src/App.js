@@ -2,11 +2,10 @@ import React from 'react';
 import { ChatManager, TokenProvider } from '@pusher/chatkit-client';
 import './App.css';
 
-const testToken =
-  'https://us1.pusherplatform.io/services/chatkit_token_provider/v1/2041e0b2';
-const instanceLocator = 'ef97';
-const roomId = '20961717';
-const USER_ID = 'Lanre';
+const testToken = 'PUSHER_TOKEN_URL';
+const instanceLocator = 'PUSHER_INSTANCE_LOCATOR';
+const roomId = 'ROOM_ID';
+const USER_ID = 'USER_ID';
 
 class App extends React.Component {
   constructor() {
