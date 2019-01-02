@@ -10,7 +10,7 @@ How to build a chat app using Pusher Chatkit. This updates the tutorial at https
 * Clone this repository.
 * `cd` into this repository (`cd react-chat-pusher`)
 * Open this [file](https://github.com/adelowo/react-chat-pusher/blob/master/src/App.js) 
-and update line 6 and 7 to contain your credentials from the dashboard. 
+and update line 5 to 9 to contain your credentials from the dashboard. 
 * Run `npm install` to install the dependencies
 * To start the application, `npm run start` is the command to run.
 * Open http://localhost:3000 .
